@@ -1,1 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
+ , l,a
+.editorconfig
+.idea/
+bs-config.json
+node_modules/
+package-lock.json
+package.json
+src/
+tslint.json
